@@ -9,43 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* High-dimensional PDEs with applications to kinetic theory
+* Low-rank tensor approximation
+* High-order finite-difference, finite-volume, and finite-element discretizations
+* High-performance scientic computing and software development
+* Performance portability
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computational Mathematics, Science, and Engineering, Michigan State University, 2022
+* M.S. in Applied Mathematics, University of Akron, 2017
+* B.S. in Applied Mathematics, University of Akron, 2017
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Fellow, University of Delaware, Newark, DE, August 2023 - Present
+* Peter O'Donnell Jr. Postdoctoral Fellow, University of Texas at Austin, Austin, TX, August 2022 - August 2023
+* Graduate Research Assistant, Michigan State University, East Lansing, MI, August 2017 - August 2022
+* Los Alamos National Laboratory, Los Alamos, NM, May 2019 - August 2019
+* Graduate Assistant, University of Akron, Akron, OH, August 2015 - May 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Peter O'Donnell Jr. Postdoctoral Fellowship (The University of Texas at Austin)
+* Ginther Graduate Fellowship (Michigan State University)
+* Presidential Scholar (University of Akron)
+
+Grants and Proposals
+======
+* PI: High-order Adaptive Rank Integrators for Multi-scale Kinetic Simulations : Algorithms, Analysis, and
+Integration with Novel Architectures, Air Force Office of Scientific Research, Computational Mathematics (white paper, submitted)
+* Co-PI: Collaborative Research: RUI: Low-rank tensor methods with high-order accuracy and structure-preserving properties for kinetic simulations, National Science Foundation, Division of Mathematical Sciences (submitted)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Mentoring
+======
+* James Mou (undergraduate), University of Delaware, Summer 2024. Focus: Low-rank tensor decompositions for PDEs and their acceleration on GPUs.
+
+Service and leadership
+======
+* Co-organizer, Numerical Analysis and PDE Seminar, University of Delaware, Fall 2024 - Present
+* Graduate Representative, Coalition for National Science Funding advocacy meetings, Michigan State University, June 2021
+* Organized the minisymposium on Fast Kernel Methods for Integral Equations at SIAM CSE `21, March 1-5, 2021
   
 Talks
 ======
@@ -55,10 +67,21 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* University of Delaware
+  * MATH 242: Analytic Geometry and Calculus B (instructor), Fall 2024
+  * MATH 428: Computational Mathematics II (instructor), Spring 2024
+  * MATH 342: Differential Equations with Linear Algebra II (instructor), Fall 2023
+* University of Texas at Austin
+  * CSE 383: Numerical Linear Algebra (substitute instructor), Fall 2022
+* Michigan State University
+  * CMSE 821: Numerical Differential Equations (substitute instructor/TA), Spring 2019
+  * CMSE 201: Introduction to Computational Modeling (TA), Fall 2018
+* University of Akron
+  * MATH 100: Intermediate College Algebra (instructor), Fall 2016 - Spring 2017
+  * MATH 222: Calculus II (TA), Fall 2015 - Spring 2016
+
+Programming and Software
 ======
-* Currently signed in to 43 different slack teams
+* Languages: Python, MATLAB, Julia, C, C++, Fortran
+* Libraries: MPI, OpenMP, CUDA, Kokkos, MFEM/PyMFEM, Parla, Paraview, Qiskit
+* Writing: LaTeX, Microsoft Office
