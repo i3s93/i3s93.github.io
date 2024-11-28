@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "William Sands"
+title                    : "William A. Sands"
 title_separator          : "-"
-name                     : &name "William Sands"
+name                     : &name "William A. Sands"
 description              : &description "Postdoctoral Research Fellow"
 url                      : https://i3s93.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "i3s93/i3s93.github.io"
 author:
   # Biographic information
   avatar           : "WAS_Longwood_profile.jpg"
-  name             : "William Sands"
+  name             : "William A. Sands"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Fellow"
+  bio              : "Computational mathematician"
   location         : "Newark, Delaware, USA"
   employer         : "University of Delaware"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3643-4751"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # 
   researchgate     : "https://www.researchgate.net/profile/William-Sands-3"
   scopus           : # URL
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
