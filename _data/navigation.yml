@@ -12,11 +12,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /research/ 
+
   - title: "Teaching"
     url: /teaching/ 
 
-  - title: "Talks"
-    url: /talks/       
+  - title: "Conferences and Professional Meetings"
+    url: /conferences/       
     
   # - title: "Portfolio"
   #   url: /portfolio/
