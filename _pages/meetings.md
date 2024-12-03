@@ -1,9 +1,8 @@
 ---
-permalink: /meetings/
+layout: archive
 title: ""
+permalink: /meetings/
 author_profile: true
-redirect_from: 
-  - /meetings/
 ---
 
 # Conferences and Professional Meetings
