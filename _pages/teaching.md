@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 # Current Teaching
-* MATH 242: Analytic Geometry and Calculus B
+* MATH 302: Ordinary Differential Equations
 
 # Past Teaching
 * **University of Delaware**
+  * MATH 242: Analytic Geometry and Calculus B 
   * MATH 428: Computational Mathematics II (instructor), Spring 2024
   * MATH 342: Differential Equations with Linear Algebra II (instructor), Fall 2023
 * **University of Texas at Austin**

@@ -6,8 +6,8 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "Short Bio"
+    url: /short-bio/
 
   - title: "Publications"
     url: /publications/

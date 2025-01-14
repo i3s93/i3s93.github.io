@@ -9,7 +9,7 @@ author_profile: true
 
 1. **W. Sands**, W. Guo, J.-M. Qiu, T. Xiong, *High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format*, Numerical Analysis and PDE Seminar, University of Delaware, November 2024  
 
-2. **W. Sands**, G. Biros, *An \( S_{N} \) discretization with angular adaptivity for radiative transfer applications*, SIAM TX-LA Annual Meeting, November 2023  
+2. **W. Sands**, G. Biros, *An $S_{N}$ discretization with angular adaptivity for radiative transfer applications*, SIAM TX-LA Annual Meeting, November 2023  
 
 3. **W. Sands**, W. Guo, J.-M. Qiu, Tao Xiong, *A dynamic low-rank approximation for linear kinetic transport equations in the diffusive limit*, SIAM NNP Annual Meeting, October 2023  
 
