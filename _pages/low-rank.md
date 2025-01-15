@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /low-rank/
+author_profile: true
+---
+
 # Low-rank tensor methods
 
 Another major component of my research focuses on low-rank tensor methods and their applications to problems in kinetic theory. Kinetic models offer a mesoscale description of a system, where molecular dynamics is impractical and continuum models such as the Euler and Navier-Stokes equations breakdown. These models pose significant challenges for existing simulation tools due to their high dimensionality (often 6D plust time) and multi-scale features which create tremendous numerical stiffness.

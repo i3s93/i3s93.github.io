@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/hpc
+permalink: /hpc/
 author_profile: true
 ---
 
