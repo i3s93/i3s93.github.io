@@ -13,20 +13,18 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/ 
+    url: /research/
+    children:
+      - title: "Particle Methods for Plasmas"
+        url: /research/particles/
+      - title: "Low-rank Tensor Approximation"
+        url: /research/low-rank/
+      - title: "High-performance Computing"
+        url: /research/hpc/ 
 
   - title: "Teaching"
     url: /teaching/ 
 
   - title: "Professional Meetings"
     url: /meetings/       
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
-    
-  # - title: "Guide"
-  #   url: /markdown/
