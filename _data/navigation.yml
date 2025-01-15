@@ -13,13 +13,7 @@ main:
     url: /publications/
 
   - title: "Research"
-    children:
-      - title: "Particle Methods for Plasmas"
-        url: /particles/
-      - title: "Low-rank Tensor Approximation"
-        url: /low-rank/
-      - title: "High-performance Computing"
-        url: /hpc/ 
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/ 
