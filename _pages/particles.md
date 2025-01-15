@@ -78,7 +78,8 @@ Another application that we considered is the formation of plasma sheaths in dom
 The Weibel instability is a fundamental process in high-energy-density plasmas, common in astrophysics and fusion, arising from an anisotropic distribution of momenta. Over time, the strong currents form filament-like structures resulting in highly turbulent magnetic fields that drive self-organization, as shown below. In this process, the plasma kinetic energy is converted to potential energy via the magnetic fields. This process leads to the formation of magnetic islands in which other plasma phenomena like magnetic reconnection can occur, releasing stored energy back into the plasma. 
 
 <figure style="text-align: center;">
-    <img src="../images/weibel_filamentation.png" alt="Weibel instability",
+    <img src="../images/weibel_filamentation.png" 
+    alt="Weibel instability"
     width="100%">
     <figcaption></figcaption>
 </figure>
