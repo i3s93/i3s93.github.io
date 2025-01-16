@@ -9,14 +9,14 @@ main:
   - title: "Short Bio"
     url: /short-bio/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: /teaching/
+
+  - title: "Publications"
+    url: /publications/ 
 
   - title: "Professional Meetings"
     url: /meetings/       
