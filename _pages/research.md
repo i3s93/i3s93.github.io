@@ -36,7 +36,7 @@ The two stream instability models a pair of counter-streaming beams of electrons
 <figure style="text-align: center;">
     <img src="../images/ES-TSI-aem-BDF1-step2500.png"
     alt="TSI example"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 60%; max-width: 600px; height: auto;">
     <figcaption> 
     </figcaption>
 </figure>
@@ -48,7 +48,7 @@ Here we considered an electron beam in a box subject to perfectly electrically c
 <figure style="text-align: center;">
     <img src="../images/EBP-comparison-wide-particles.png"
     alt="Electron beam example"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 60%; max-width: 600px; height: auto;">
     <figcaption>
     </figcaption>
 </figure>
@@ -60,7 +60,7 @@ Another application that we considered is the formation of plasma sheaths in dom
 <figure style="text-align: center;">
     <img src="../images/time_averaged_phi_slices.png"
     alt="Plasma sheath example"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 60%; max-width: 600px; height: auto;">
     <figcaption> 
     </figcaption>
 </figure>
@@ -72,7 +72,7 @@ The Weibel instability is a fundamental process in high-energy-density plasmas, 
 <figure style="text-align: center;">
     <img src="../images/weibel_filamentation.png" 
     alt="Weibel instability"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 100%; height: auto;">
     <figcaption></figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ The lattice test is used as a proxy application for modeling nuclear reactors. I
 <figure style="text-align: center;">
     <img src="../images/lattice_comparison.png"
     alt="Density cross-section comparison"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 100%; max-width: 600px; height: auto;">
     <figcaption> </figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ We also investigated the low-rank structures in the high-dimensional function $g
 <figure style="text-align: center;">
     <img src="../images/lattice_svd_decay.png"
     alt="lattice svd decay"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 100%; max-width: 600px; height: auto;">
     <figcaption> </figcaption>
 </figure>
 The singular values in the above plot are shown on a logarithmic scale, with y-axis covering four-orders of magnitude. We observe a reasonable decay in the nodes towards the root of the tree, followed by rapid decay at the leaf nodes. For this problem, this compression results in an overall reduction of the degrees of freedom by nearly 95%. By further exploring tensor product structure in space, we can achieve further reductions to as much as 99%.  
@@ -133,7 +133,7 @@ The Sod shock tube problem is a well known benchmark for testing the accuracy of
 <figure style="text-align: center;">
     <img src="../images/riemann_problem.png"
     alt="riemann moments"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 100%; max-width: 600px; height: auto;">
     <figcaption> </figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ The mixed regime problem uses a spatially dependent Knudsen number \\(\epsilon(x
 <figure style="text-align: center;">
     <img src="../images/mixed_regime.png"
     alt="mixed regime moments"
-    style="width: 80%; max-width: 600px; height: auto;">
+    style="width: 100%; max-width: 600px; height: auto;">
     <figcaption> </figcaption>
 </figure>
 
@@ -167,5 +167,7 @@ Although hardware continues to evolve, the rapid advancements predicted by [Moor
 
 - **Efficient low-storage algorithms** tailored for kinetic simulations.  
 - **Portable algorithms** optimized for a variety of computing devices.  
-- **Software tools** to facilitate the development of kinetic algorithms. 
+- **Software tools** to facilitate the development of kinetic algorithms.
+
+--- 
 
