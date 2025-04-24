@@ -7,6 +7,8 @@ author_profile: true
 
 # Conferences and Professional Meetings
 
+* SIAM Conference on Computational Science and Engineering, Fort Worth, TX, March 3-7, 2025
+
 * Center of Hierarchical and Robust Modeling of Non-equilibirum Transport (CHaRMNET) Mathematical Multifaceted Integrated Capability Center (MMICC) Meeting, Blacksburg, VA, December 2-5, 2024
 
 * Center of Hierarchical and Robust Modeling of Non-equilibirum Transport (CHaRMNET) Mathematical Multifaceted Integrated Capability Center (MMICC) Meeting, East Lansing, MI, December 3-6, 2023

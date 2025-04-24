@@ -71,11 +71,11 @@ Although hardware continues to evolve, the rapid advancements predicted by [Moor
 
 # Selected research
 
-1. A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part I, model formulation."](https://arxiv.org/abs/2208.11291) *arXiv:2208.11291*
-2. A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part II, enforcing the Lorenz gauge condition."](https://link.springer.com/article/10.1007/s10915-024-02728-6) *Journal of Scientific Computing*, 101(73) (2024)
-3. A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part III, a family of gauge-conserving methods."](https://arxiv.org/abs/2410.18414) *arXiv:2410.18414*
-4. **W.A. Sands**, W. Guo, J.-M. Qiu, and T. Xiong. ["High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format."](https://arxiv.org/abs/2406.19479) *arXiv:2406.19479* 
-5. N.Zheng, **W.A. Sands**, D.Hayes, and J.-M. Qiu. "A local macroscopic conservative (LoMaC) semi-Lagrangian adaptive-rank (SLAR) method for the multi-scale BGK equation" (in-progress).
-6. A.J. Christlieb, P.T. Guthrey, **W.A. Sands**, and M. Thavappiragasam. ["Parallel algorithms for successive convolution."](https://link.springer.com/article/10.1007/s10915-020-01359-x) *Journal of Scientific Computing*, 86(1) (2021)
-7. G. Alabandi, **W. Sands**, G. Biros, and M. Burtscher, ["A GPU algorithm for detecting strongly connected components."](https://dl.acm.org/doi/abs/10.1145/3581784.3607071) *Proceedings of the 2023 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis*, 17: 1–13 (2023)
+* A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A Particle-in-Cell Method for Plasmas with a Generalized Momentum Formulation, Part I: Model Formulation."](https://link.springer.com/article/10.1007/s10915-025-02824-1) *Journal of Scientific Computing*, 103(15) (2025)
+* A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part II, enforcing the Lorenz gauge condition."](https://link.springer.com/article/10.1007/s10915-024-02728-6) *Journal of Scientific Computing*, 101(73) (2024)
+* A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part III, a family of gauge-conserving methods."](https://arxiv.org/abs/2410.18414) *arXiv:2410.18414* (under revision)
+* **W.A. Sands**, W. Guo, J.-M. Qiu, and T. Xiong. ["High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format."](https://arxiv.org/abs/2406.19479) *arXiv:2406.19479* (under revision)
+* **W.A. Sands**, N.Zheng, D.Hayes, and J.-M. Qiu. "An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations with Preservation of Macroscopic Conservation Law" (in-progress).
+* A.J. Christlieb, P.T. Guthrey, **W.A. Sands**, and M. Thavappiragasam. ["Parallel algorithms for successive convolution."](https://link.springer.com/article/10.1007/s10915-020-01359-x) *Journal of Scientific Computing*, 86(1) (2021)
+* G. Alabandi, **W. Sands**, G. Biros, and M. Burtscher, ["A GPU algorithm for detecting strongly connected components."](https://dl.acm.org/doi/abs/10.1145/3581784.3607071) *Proceedings of the 2023 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis*, 17: 1–13 (2023)
 
