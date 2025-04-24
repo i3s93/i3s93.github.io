@@ -36,7 +36,7 @@ redirect_from:
 * Presidential Scholar (University of Akron)
 
 # Grants and Proposals
-* PI: Predictive Ultrafast Low-Rank Simulations via Embedded Tensor Networks, Subaward from Lawrence Livermore National Laboratory, Present - Sep 30, 2025, Total: $\$45,934$.
+* PI: Predictive Ultrafast Low-Rank Simulations via Embedded Tensor Networks, Subaward from Lawrence Livermore National Laboratory, Present - Sep 30, 2025, Total: \\(\$45,934\\)
 * PI: High-order Adaptive Rank Integrators for Multi-scale Kinetic Simulations : Algorithms, Analysis, and
 Integration with Novel Architectures, Air Force Office of Scientific Research, Computational Mathematics (white paper, submitted)
 * Co-PI: Collaborative Research: RUI: Low-rank tensor methods with high-order accuracy and structure-preserving properties for kinetic simulations, National Science Foundation, Division of Mathematical Sciences (submitted)

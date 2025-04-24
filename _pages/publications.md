@@ -7,7 +7,7 @@ author_profile: true
 
 # Journal Publications
 
-* A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A Particle-in-Cell Method for Plasmas with a Generalized Momentum Formulation, Part I: Model Formulation."](https://link.springer.com/article/10.1007/s10915-025-02824-1) *Journal of Scientific Computing*, 103(15) (2025)
+* A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation, part I: model formulation."](https://link.springer.com/article/10.1007/s10915-025-02824-1) *Journal of Scientific Computing*, 103(15) (2025)
 
 * A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part II, enforcing the Lorenz gauge condition."](https://link.springer.com/article/10.1007/s10915-024-02728-6) *Journal of Scientific Computing*, 101(73) (2024)
 
