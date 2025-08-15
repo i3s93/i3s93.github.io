@@ -7,6 +7,10 @@ author_profile: true
 
 # Invited Presentations
 
+* **W. Sands**, W. Guo, J.-M. Qiu, T. Xiong, *High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format*, ICOSAHOM, July 2025  
+
+* **W. Sands**, N. Zheng, D.P. Hayes, J.-M. Qiu, *Adaptive-rank methods for multi-scale BGK equations via greedy sampling*, Sayas Numerics Day, May 2025 
+
 * **W. Sands**, W. Guo, J.-M. Qiu, T. Xiong, *High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format*, SIAM CSE, March 2025  
 
 * **W. Sands**, W. Guo, J.-M. Qiu, T. Xiong, *High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format*, Numerical Analysis and PDE Seminar, University of Delaware, November 2024  

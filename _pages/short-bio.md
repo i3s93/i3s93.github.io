@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 # Research Interests
-* High-dimensional PDEs with applications to kinetic theory
-* Low-rank tensor approximation
-* High-order finite-difference, finite-volume, and finite-element structure-preserving discretizations
-* High-performance scientic computing and software development
-* Performance portability
+* High-dimensional and multiscale PDEs with applications to kinetic theory
+* Scientific machine learning and structure-preserving low-rank tensor approximation
+* High-order finite-difference, finite-volume, and finite-element discretizations
+* High-performance scientific computing and software development
 
 # Education
 * Ph.D. in Computational Mathematics, Science, and Engineering, Michigan State University, 2022
@@ -46,12 +45,12 @@ Integration with Novel Architectures, Air Force Office of Scientific Research, C
   * Focus: Low-rank tensor decompositions for PDEs and their acceleration on GPUs.
 
 # Service and leadership
-* Co-organizer for the minisymposium on Low-rank Solvers with Applications to High-dimensional Problems  at ICOSAHOM 2025,  July 13-18, 2025
-* Co-organizer, Numerical Analysis and PDE Seminar, University of Delaware, Fall 2024 - Present
+* Co-organizer for the minisymposium on *Low-rank Solvers with Applications to High-dimensional Problems* at ICOSAHOM 2025,  July 13-18, 2025
+* Co-organizer, Numerical Analysis and PDE Seminar, University of Delaware, Fall 2024 - Spring 2025
 * Graduate Representative, Coalition for National Science Funding advocacy meetings, Michigan State University, June 2021
-* Organized the minisymposium on Fast Kernel Methods for Integral Equations at SIAM CSE `21, March 1-5, 2021
+* Organized the minisymposium on *Fast Kernel Methods for Integral Equations* at SIAM CSE `21, March 1-5, 2021
 
 # Programming and Software
 * **Languages**: Python, MATLAB, Julia, C, C++, Fortran
-* **Libraries**: MPI, OpenMP, CUDA, Kokkos, MFEM/PyMFEM, Parla, Paraview, Qiskit
+* **Libraries**: BoBa, MFEM/PyMFEM, FFTW, NVIDIA GPU libraries (e.g., cuFFT, cuTensor, cuBLAS, cuSOLVER), Paraview, Qiskit
 * **Writing**: LaTeX, Microsoft Office

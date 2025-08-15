@@ -61,7 +61,7 @@ Kinetic simulations demand significant computational resources, often exceeding 
 
 To illustrate, storing _a single copy_ of a six-dimensional function on a mesh with 256 degrees of freedom per dimension requires more than 2 petabytes (\\( 2 \times 10^{15} \\) bytes) in double-precision arithmetic. This far exceeds the memory available on many systems, especially newer architectures like GPUs, which are optimized for throughput but offer relatively limited global memory.
 
-Although hardware continues to evolve, the rapid advancements predicted by [Moore’s Law](https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.js757u) have slowed in recent years. While computing architectures will improve over time, new **mathematical tools** will likely drive innovation in computational science. My research focuses on developing these tools, which complement my broader interests by enabling efficient use of modern computing devices. Specifically, I am working on methods with the following properties:
+Although hardware continues to evolve, the rapid advancements predicted by [Moore’s Law](https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.js757u) have slowed in recent years. While computing architectures will improve over time, new *mathematical tools* will likely drive innovation in computational science. My research focuses on developing these tools, which complement my broader interests by enabling efficient use of modern computing devices. Specifically, I am working on methods with the following properties:
 
 - **Efficient low-storage algorithms** tailored for kinetic simulations.  
 - **Portable algorithms** optimized for a variety of computing devices.  

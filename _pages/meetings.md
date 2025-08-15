@@ -7,6 +7,10 @@ author_profile: true
 
 # Conferences and Professional Meetings
 
+* ICOSAHOM Montréal, Quebec, July 13 - 18, 2025
+
+* Sayas Numerics Day, Newark, DE, May 3, 2025
+
 * SIAM Conference on Computational Science and Engineering, Fort Worth, TX, March 3-7, 2025
 
 * Center of Hierarchical and Robust Modeling of Non-equilibirum Transport (CHaRMNET) Mathematical Multifaceted Integrated Capability Center (MMICC) Meeting, Blacksburg, VA, December 2-5, 2024
