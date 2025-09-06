@@ -7,6 +7,8 @@ author_profile: true
 
 # Journal Publications
 
+* **W.A. Sands**, W. Guo, J.-M. Qiu, and T. Xiong. ["High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format."](https://arxiv.org/abs/2406.19479) *SIAM Journal on Scientific Computing* (to appear)
+
 * A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation: part III, a family of gauge-conserving methods."](https://link.springer.com/article/10.1007/s10915-025-02953-7) *Journal of Scientific Computing*, 104(38) (2025)
 
 * A.J. Christlieb, **W.A. Sands**, and S.R. White. ["A particle-in-cell method for plasmas with a generalized momentum formulation, part I: model formulation."](https://link.springer.com/article/10.1007/s10915-025-02824-1) *Journal of Scientific Computing*, 103(15) (2025)
@@ -29,9 +31,8 @@ author_profile: true
 * S. Forcey, G. Hamerlinck, and **W. Sands**. ["Optimization problems in phylogenetics: polytopes, programming and interpretation."](https://www.sciencedirect.com/science/article/abs/pii/B9780128140666000106) In R. Robeva and M. Macauley (Eds.), *Algebraic and Combinatorial Computational Biology*. Elsevier, first edition (2018)
 
 # Preprints
-* **W.A. Sands**, W. Guo, J.-M. Qiu, and T. Xiong. ["High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format."](https://arxiv.org/abs/2406.19479) *arXiv:2406.19479* (under revision)
 
-* **W.A. Sands**, J.-M. Qiu, D.P. Hayes, N. Zheng. ["An adaptive-rank approach with greedy sampling for multi-scale BGK equations."](https://arxiv.org/abs/2505.17191) *arXiv:2505.17191* (submitted)
+* **W.A. Sands**, J.-M. Qiu, D.P. Hayes, N. Zheng. ["An adaptive-rank approach with greedy sampling for multi-scale BGK equations."](https://arxiv.org/abs/2505.17191) *arXiv:2505.17191* (revision submitted)
 
 # Other Published Work
 * **W.A. Sands**. ["Numerical methods for the evolution of fields with applications to plasmas."](https://www.proquest.com/docview/2694975152?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) Ph.D. dissertation, Michigan State University, 2022

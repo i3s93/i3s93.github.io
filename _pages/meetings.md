@@ -7,6 +7,8 @@ author_profile: true
 
 # Conferences and Professional Meetings
 
+* ENUMATH 2025, Heidelberg, Germany, September 1 - 5, 2025
+
 * ICOSAHOM Montréal, Quebec, July 13 - 18, 2025
 
 * Sayas Numerics Day, Newark, DE, May 3, 2025
@@ -42,6 +44,8 @@ author_profile: true
 * MAA Regional Conference, Aida, OH, April 2016
 
 # Workshops and Training
+
+* BoBa Tensor Network Hackathon, Livermore, CA, August 18 - 20, 2025
 
 * Codee Training Series (virtual), National Energy Research Scientific Computing Center, September 5, 2024
 
