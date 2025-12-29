@@ -5,9 +5,13 @@ permalink: /meetings/
 author_profile: true
 ---
 
-# Invited Presentations
+# Invited Presentations$^{\ast}$
 
-* **W. Sands**, W. Guo, J.-M. Qiu, T. Xiong, *High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format*, ICOSAHOM, July 2025  
+* **W. Sands**, J.-M. Qiu, D.P. Hayes, N. Zheng, *Adaptive-rank methods for the multi-scale BGK Equation via greedy sampling*, SIAM NNP Annual Meeting, November 2025 
+
+* **W. Sands**, J.-M. Qiu, *Sampling-based adaptive rank integrators for multi-scale kinetic models*, ENUMATH 2025, September 2025 
+
+* **W. Sands**, W. Guo, J.-M. Qiu, T. Xiong, *High-order adaptive rank integrators for multi-scale linear kinetic transport equations in the hierarchical Tucker format*, ICOSAHOM, July 2025 (presented on behalf of T. Xiong)
 
 * **W. Sands**, N. Zheng, D.P. Hayes, J.-M. Qiu, *Adaptive-rank methods for multi-scale BGK equations via greedy sampling*, Sayas Numerics Day, May 2025 
 
@@ -25,15 +29,17 @@ author_profile: true
 
 * **W. Sands**, A. Christlieb, *Towards unconditionally stable numerical algorithms for evolution of point-sources in wave propagation problems*, Minisymposium on Advances in Numerical Methods for Linear and Non-linear Dynamics and Wave Propagation, 16th U.S. National Congress on Computational Mechanics (virtual), July 2021  
 
-* A. Christlieb, P. Guthrey, **W. Sands**, M. Thavappiragasam, *The Method-of-Lines-Transpose: scalable algorithms for high-performance computing*, Minisymposium on Fast Kernel Methods for Integral Equations, SIAM CSE (virtual), March 2021  
-
-* A. Christlieb, **W. Sands**, H. Yang, *Kernel-based methods as a path to explicit unconditionally stable schemes*, Minisymposium on Fast Kernel Methods for Integral Equations, SIAM CSE (virtual), March 2021  
+* **W. Sands**, A. Christlieb, P. Guthrey, M. Thavappiragasam, *The Method-of-Lines-Transpose: scalable algorithms for high-performance computing*, Minisymposium on Fast Kernel Methods for Integral Equations, SIAM CSE (virtual), March 2021   
 
 * H. Lebo, **W. Sands**, R. Shrestha, *An analysis of recent UA admission and enrollment data*, SIAM Student Seminar, University of Akron, Akron, OH, September 2016  
 
 *  **W. Sands** and S. Forcey,  *Phylogenetic tree reconstruction using balanced minimal evolution*,  MAA Conference, Ohio Northern University, Ada, OH, April 2016
 
+
+
 # Conferences, Workshops, and Professional Meetings
+
+* **BoBa Tensor Network Hackathon**, Livermore, CA, August 18 - 20, 2025
 
 * **Codee Training Series** (virtual), National Energy Research Scientific Computing Center, September 5, 2024  
 
@@ -74,3 +80,7 @@ author_profile: true
 * **Frontiers in Computing and Data Science**, MSU, East Lansing, MI, September 17-20, 2017  
 
 * **MAA Regional Conference**, Ada, OH, April 2016  
+
+---  
+
+$\ast$ Presenting author for all listings.

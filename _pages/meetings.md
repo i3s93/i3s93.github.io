@@ -7,6 +7,8 @@ author_profile: true
 
 # Conferences and Professional Meetings
 
+* SIAM New York-New Jersey-Pennsylvania Annual Meeting (SIAM NNP '25), State College, PA, October 31 - November 2, 2025
+
 * ENUMATH 2025, Heidelberg, Germany, September 1 - 5, 2025
 
 * ICOSAHOM Montréal, Quebec, July 13 - 18, 2025

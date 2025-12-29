@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 # Current Teaching
-* MATH 342: Differential Equations with Linear Algebra II
 
 # Past Teaching
 * **University of Delaware**
+  * MATH 342: Differential Equations with Linear Algebra II 
   * MATH 302: Ordinary Differential Equations
   * MATH 242: Analytic Geometry and Calculus B 
   * MATH 428: Computational Mathematics II (instructor), Spring 2024
