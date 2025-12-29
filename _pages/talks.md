@@ -95,4 +95,4 @@ author_profile: true
 
 ---  
 
-$\ast$ Presenting author for all listings.
+\\(\ast\\) Presenting author for all listings.

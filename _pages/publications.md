@@ -43,8 +43,7 @@ author_profile: true
 
 ---
 
-\\(\dagger\\) Corresponding author
-\\(\ast\\) Authors listed alphabetically
+\\(\dagger\\) Corresponding author; \\(\ast\\) Authors listed alphabetically
 
 
 
