@@ -5,7 +5,7 @@ permalink: /meetings/
 author_profile: true
 ---
 
-# Invited Presentations$^{\ast}$
+# Invited Presentations\\(^{\ast}\\)
 
 * **W. Sands**, J.-M. Qiu, D.P. Hayes, N. Zheng, *Adaptive-rank methods for the multi-scale BGK Equation via greedy sampling*, SIAM NNP Annual Meeting, November 2025 
 
@@ -39,7 +39,19 @@ author_profile: true
 
 # Conferences, Workshops, and Professional Meetings
 
+* **SIAM New York-New Jersey-Pennsylvania Annual Meeting (SIAM NNP '25)**, State College, PA, October 31 - November 2, 2025
+
 * **BoBa Tensor Network Hackathon**, Livermore, CA, August 18 - 20, 2025
+
+* **ENUMATH 2025**, Heidelberg, Germany, September 1 - 5, 2025
+
+* **ICOSAHOM 2025**, Montréal, Quebec, July 13 - 18, 2025
+
+* **Sayas Numerics Day**, Newark, DE, May 3, 2025
+
+* **SIAM Conference on Computational Science and Engineering**, Fort Worth, TX, March 3-7, 2025
+
+* **Center of Hierarchical and Robust Modeling of Non-equilibirum Transport (CHaRMNET)**, Mathematical Multifaceted Integrated Capability Center (MMICC) Meeting, Blacksburg, VA, December 2-5, 2024
 
 * **Codee Training Series** (virtual), National Energy Research Scientific Computing Center, September 5, 2024  
 
