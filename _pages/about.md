@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Fellow working in the [Department of Mathematical Sciences](https://www.mathsci.udel.edu/) at the University of Delaware. I currently work with [Prof. Jing-Mei Qiu](https://jingmeiqiu.github.io/) on low-rank tensor decompositions and their application to high-dimensional kinetic models of plasma.
+I am currently a Nicholas C. Metropolis Fellow working in the [Theoretical Division](https://www.lanl.gov/engage/organizations/aldsct/theoretical) at Los Alamos National Laboratory. My research is broadly focused on tensor networks, and includes algorithms for high-dimensional linear and nonlinear systems and the design of performance portable software for these methods. This research is generously supported through funding provided by the Advanced Simulation and Computing (ASC) Program.
+
+Previously, I was a Postdoctoral Research Fellow working in the [Department of Mathematical Sciences](https://www.mathsci.udel.edu/) at the University of Delaware. I worked with [Prof. Jing-Mei Qiu](https://jingmeiqiu.github.io/) on low-rank tensor decompositions and their application to high-dimensional kinetic models of plasma.
 
 Before joining the University of Delaware, I was a Peter O'Donnell Jr. Postdoctoral Fellow at the University of Texas at Austin, where I worked on algorithms for radiation transport applications. My research was supervised by Robert Moser and George Biros in the [Center for Predictive Engineering and Computational Science](https://pecos.oden.utexas.edu/) (PECOS) at the Oden Institute for Computational Engineering and Sciences.
 
