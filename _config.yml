@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "William A. Sands"
 title_separator          : "-"
 name                     : &name "William A. Sands"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Nicholas C. Metropolis Fellow"
 url                      : https://i3s93.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "i3s93/i3s93.github.io"
@@ -41,7 +41,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "wsands@udel.edu"
+    email                : "wsands@lanl.gov"
   generatedFields:
     date:
       type               : "date"
@@ -58,11 +58,11 @@ author:
   avatar           : "WAS_Longwood_profile.jpg"
   name             : "William A. Sands"
   pronouns         : # example: "she/her"  
-  bio              : "Computational mathematician"
-  location         : "Newark, Delaware, USA"
+  bio              : "Computational mathematician @lanl"
+  location         : "Los Alamos, New Mexico, USA"
   employer         : "University of Delaware"
   uri              : # URL
-  email            : "wsands@udel.edu" 
+  email            : "wsands@lanl.gov" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

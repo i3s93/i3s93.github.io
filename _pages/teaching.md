@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Current Teaching
-
 # Past Teaching
 * **University of Delaware**
   * MATH 342: Differential Equations with Linear Algebra II 

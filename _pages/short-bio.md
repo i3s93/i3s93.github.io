@@ -9,7 +9,7 @@ redirect_from:
 
 # Research Interests
 * High-dimensional and multiscale PDEs with applications to kinetic theory
-* Scientific machine learning and structure-preserving low-rank tensor approximation
+* Scientific machine learning and structure-preserving tensor network approximations
 * High-order finite-difference, finite-volume, and finite-element discretizations
 * High-performance scientific computing and software development
 
@@ -21,7 +21,9 @@ redirect_from:
 * B.S. in Applied Mathematics, University of Akron, 2017
 
 # Employment
-* Postdoctoral Research Fellow, University of Delaware, Newark, DE, August 2023 - Present
+* Nicholas C. Metropolis Fellow, Los Alamos National Laboratory, Los Alamos, NM, March 2026 - Present
+  * Mentor: [Dr. Ben Southworth](https://ben-southworth.science/)
+* Postdoctoral Research Fellow, University of Delaware, Newark, DE, August 2023 - March 2026
   * Mentor: [Prof. Jing-Mei Qiu](https://jingmeiqiu.github.io/)
 * Peter O'Donnell Jr. Postdoctoral Fellow, University of Texas at Austin, Austin, TX, August 2022 - August 2023
   * Mentors: Prof. Robert Moser and Prof. George Biros, [PECOS](https://pecos.oden.utexas.edu/)
@@ -30,14 +32,15 @@ redirect_from:
 * Graduate Assistant, University of Akron, Akron, OH, August 2015 - May 2017
 
 # Awards
+* Nicholas C. Metropolis Fellowship (Los Alamos National Laboratory)
 * Peter O'Donnell Jr. Postdoctoral Fellowship (The University of Texas at Austin)
 * Ginther Graduate Fellowship (Michigan State University)
 * Presidential Scholar (University of Akron)
 
 # Grants and Proposals
 * PI: Predictive Ultrafast Low-Rank Simulations via Embedded Tensor Networks, Subaward from Lawrence Livermore National Laboratory, May 21, 2025 - March 22, 2026, Total: \\(\$108,092\\)
-* PI: High-order Adaptive Rank Integrators for Multi-scale Kinetic Simulations : Algorithms, Analysis, and Integration with Novel Architectures, Air Force Office of Scientific Research, Computational Mathematics (white paper, submitted)
-* Co-PI: Collaborative Research: RUI: Low-rank tensor methods with high-order accuracy and structure-preserving properties for kinetic simulations, National Science Foundation, Division of Mathematical Sciences (submitted)
+<!-- * PI: High-order Adaptive Rank Integrators for Multi-scale Kinetic Simulations : Algorithms, Analysis, and Integration with Novel Architectures, Air Force Office of Scientific Research, Computational Mathematics (white paper, submitted)
+* Co-PI: Collaborative Research: RUI: Low-rank tensor methods with high-order accuracy and structure-preserving properties for kinetic simulations, National Science Foundation, Division of Mathematical Sciences (submitted) -->
 
 # Mentoring
 * James Mou (undergraduate), University of Delaware, Summer 2024.     
