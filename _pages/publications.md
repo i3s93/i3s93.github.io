@@ -36,10 +36,8 @@ author_profile: true
 
 * N. Zheng, **W.A. Sands**\\(^{\dagger}\\), D.P. Hayes, A.J. Christlieb, and J.-M. Qiu. ["A semi-Lagrangian adaptive rank (SLAR) method for high-dimensional Vlasov dynamics."](https://arxiv.org/abs/2510.24861) *arXiv:2510.24861* (submitted)
 * A.J. Christlieb, **W. Sands**\\(^{\ast}\\), and S.R. White. "A particle-in-cell method for plasmas with a generalized momentum formulation." Applied Computational Electromagnetics Society (ACES) Symposium (submitted)
-* N. Zheng, **W.A. Sands**, and J.-M. Qiu. "A Locally macroscopic conservative (LoMaC) Semi-Lagrangian adaptive-rank
-(SLAR) method for high-dimensional Vlasov-Poisson Systems." (in preparation)
-* **W.A. Sands**, P.T. Guthrey, and N.V. Roberts. "Multilevel adaptive-rank methods for linear and nonlinear
-systems in the hierarchical Tucker format." (in preparation)
+* **W.A. Sands**\\(^{\dagger}\\), P.T. Guthrey, and N.V. Roberts. ["Multilevel adaptive-rank methods for linear and nonlinear systems in the hierarchical Tucker format."](https://arxiv.org/abs/2606.21750) *arXiv:2606.21750* (submitted)
+* N. Zheng, **W.A. Sands**, and J.-M. Qiu. "A mass, momentum and energy conserving semi-Lagrangian adaptive-rank (SLAR) method for the Vlasov-Poisson system." (in preparation)
 
 
 # Other Published Work
