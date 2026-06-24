@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "Professional Meetings"
+description: "Conference and professional meeting participation by William A. Sands, including scientific computing, numerical analysis, and applied mathematics events."
 permalink: /meetings/
 author_profile: true
 ---

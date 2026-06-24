@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: ""
-permalink: /meetings/
+title: "Invited Presentations"
+description: "Invited talks and conference presentations by William A. Sands on adaptive-rank methods, tensor networks, kinetic models, and scientific computing."
+permalink: /talks/
 author_profile: true
 ---
 

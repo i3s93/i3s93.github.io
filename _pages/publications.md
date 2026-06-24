@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
+description: "Refereed research articles by William A. Sands in scientific computing, tensor methods, kinetic theory, plasma modeling, radiation transport, and numerical analysis."
 permalink: /publications/
 author_profile: true
 ---
@@ -48,7 +49,6 @@ author_profile: true
 ---
 
 \\(\dagger\\) Corresponding author; \\(\ast\\) Authors listed alphabetically
-
 
 
 

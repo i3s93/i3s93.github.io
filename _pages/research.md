@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "Research"
+description: "Research by William A. Sands on tensor networks, low-rank approximation, high-dimensional kinetic equations, numerical methods, and performance-portable scientific computing."
 permalink: /research/
 author_profile: true
 ---
@@ -71,4 +72,3 @@ A central component of this effort is my work on the [BoBa Tensor Network Librar
 - **Efficient low-storage algorithms** tailored for kinetic simulations and tensor-based discretizations  
 - **Performance-portable implementations** that map naturally onto modern hardware, including GPUs and distributed-memory systems
 - **Software infrastructure** support the development of tensor networks and solvers for high-dimensional problems
-

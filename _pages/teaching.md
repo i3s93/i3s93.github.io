@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
+description: "Teaching experience for William A. Sands in differential equations, calculus, numerical linear algebra, and computational mathematics."
 permalink: /teaching/
 author_profile: true
 ---
@@ -20,4 +21,3 @@ author_profile: true
 * **University of Akron**
   * MATH 100: Intermediate College Algebra (instructor), Fall 2016 - Spring 2017
   * MATH 222: Calculus II (TA), Fall 2015 - Spring 2016
-

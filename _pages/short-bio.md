@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "Short Bio"
+description: "A short academic biography for William A. Sands, including research interests, education, appointments, and professional background in computational mathematics."
 permalink: /short-bio/
 author_profile: true
 redirect_from:

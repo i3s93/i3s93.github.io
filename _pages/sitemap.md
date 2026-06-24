@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
+description: "HTML sitemap for William A. Sands' academic website."
 permalink: /sitemap/
 author_profile: true
 ---

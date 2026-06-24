@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About me"
+title: "William A. Sands"
+description: "William A. Sands is a Nicholas C. Metropolis Fellow at Los Alamos National Laboratory working on tensor networks, scientific computing, numerical methods, and high-dimensional kinetic models."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,4 +17,3 @@ Before joining the University of Delaware, I was a Peter O'Donnell Jr. Postdocto
 I completed my PhD in Computational Mathematics, Science, and Engineering at Michigan State University in 2022 under the supervision of [Prof. Andrew J. Christlieb](http://www.the-christlieb-group.org/). My work contributed new high-order methods to simulate Maxwell's equations, and I integrated these tools with particle methods to simulate plasma phenomena.
 
 My general research interests are computational mathematics and scientific computing. My work combines tools from approximation theory and numerical analysis to develop algorithms that address the challenges of kinetic models, such as high dimensionality, multi-scale effects, and the preservation of critical mathematical structures at the discrete level. These problems require enormous computational demands, which my work addresses in a complementary manner through a combination of mathematics with tools to access the latest advances in computing hardware.
-
